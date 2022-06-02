@@ -4,6 +4,9 @@ import (
 	"time"
 )
 
+/**
+ADDRESS MODULE
+*/
 type Address struct {
 	Cityid         int       `xorm:"comment('市') INT"`
 	Createtime     time.Time `xorm:"comment('创建时间') TIMESTAMP"`
