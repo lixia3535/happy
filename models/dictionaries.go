@@ -4,6 +4,9 @@ import (
 	"time"
 )
 
+/**
+dictionnaries 数据字典
+*/
 type Dictionaries struct {
 	Createtime time.Time `xorm:"comment('创建时间') TIMESTAMP"`
 	Haschild   int       `xorm:"comment('是否有子节点 0表示没有，1表示有') INT"`
