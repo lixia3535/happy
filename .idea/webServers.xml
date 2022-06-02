@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e839856-7003-4fcf-83a2-5633247ba10f" name="192.168.56.101" url="http://lede.232333.icu/">
+        <fileTransfer host="lede.232333.icu" port="30030" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="30030" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

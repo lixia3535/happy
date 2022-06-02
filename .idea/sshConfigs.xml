@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lede.232333.icu" id="a9a84100-e0fc-4022-82b2-934fdcbc9541" port="30030" customName="192.168.56.101" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="192.168.56.101" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
